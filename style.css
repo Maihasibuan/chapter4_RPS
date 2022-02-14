@@ -1,0 +1,244 @@
+.pg-top{
+    background-image: url(./assets/main-bg.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+
+.headline{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%) translateY(-50%);
+    width: 80%;
+} 
+
+.main-title{
+    height: 73.12px;
+    left: 9.22%;
+    right: 10.47%;
+    top: calc(50% - 73.12px/2 - 130.06px);
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 83px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: white;
+}
+.content-description{
+    left: 33.84%;
+    right: 29.66%;
+    top: 46.23%;
+    bottom: 50.89%;
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: white;
+
+}
+.btn-play{
+    background-color: orange;
+    color: black;
+    font-size: 20px;
+    font-family: "Bebas Neue";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.pg-down{
+    left: 47.66%;
+    right: 47.61%;
+    top: 91.03%;
+    bottom: 6.4%;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: justify;
+    text-transform: uppercase;
+    color: white;
+}
+.pg-games{
+    background-image: url(./assets/the-games-bg.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.title-2{
+    position: absolute;
+    font-family: "Arial";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: white;
+}
+.title-3{
+    position: absolute;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+.game-features{
+    background-image: url(./assets/features.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.contet-txt{
+    width: 1441.62px;
+    height: 870.26px;
+    left: 0.38px;
+    top: 89.74px;
+}
+.t-one{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    color: white;
+}
+.t-two{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: white;
+}
+.t-three{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #FFB548;
+}
+.elipse{
+    width: 14px;
+    height: 14px;
+    left: 809.62px;
+    top: 445.91px;
+    background: #FFFFFF;
+    border: 1.30637px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+.progressbar{
+
+    width: 141.03px;
+    height: 0px;
+    left: 802.42px;
+    top: 453.51px;
+
+    border: 1.95955px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+.t-four{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* or 122% */
+    
+    text-align: justify;
+    
+    color: white;
+
+}
+.t-five{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    
+    color: #FFB548;
+}
+.elipse-2{
+    /* Ellipse */
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 809.21px;
+top: 671.6px;
+
+border: 1.30637px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.elipse3{
+    /* Ellipse */
+position: absolute;
+width: 14px;
+height: 14px;
+left: 809.21px;
+top: 671.6px;
+
+border: 1.30637px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.t-six{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 2px;
+    
+    color: #FFB548;
+}
+.requairements{
+    background-image: url(./assets/requirements.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-family: OpenSans;
+    color: white;
+}
+.tl-1{
+    padding-top: 100px;
+}
+.scores{
+    background-image: url(./assets/top-score-bg.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.btn-more{
+    background-color: orange;
+    color: black;
+    font-size: 20px;
+    font-family: "Arial";
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.quotes{
+    color: white;
+}
